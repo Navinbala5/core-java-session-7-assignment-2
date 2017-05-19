@@ -1,0 +1,15 @@
+class TwentyfifthAssignment
+{
+public static void main(String args[])
+{
+    
+String str="everyone";
+String str2=str.substring(3,5);//inbuild function for displaying  substring//
+String str3=str.substring(5,8);//inbuild function for displaying substring//
+System.out.println("the substring is"+" "+str2);
+System.out.println("the substring is"+" "+str3);
+System.out.println(str.contains("hello"));//inbuild function contains true or false//
+System.out.println(str.contains("one"));//inbuild function contains true or false//
+}
+}
+
